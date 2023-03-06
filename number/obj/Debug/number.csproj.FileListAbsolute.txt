@@ -1,0 +1,11 @@
+E:\table\task\number\bin\Debug\number.exe.config
+E:\table\task\number\bin\Debug\number.exe
+E:\table\task\number\bin\Debug\number.pdb
+E:\table\task\number\obj\Debug\number.csproj.AssemblyReference.cache
+E:\table\task\number\obj\Debug\number.Properties.Resources.resources
+E:\table\task\number\obj\Debug\number.csproj.GenerateResource.cache
+E:\table\task\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+E:\table\task\number\obj\Debug\number.exe
+E:\table\task\number\obj\Debug\number.pdb
+E:\table\task\number\obj\Debug\number.result.resources
+E:\table\task\number\obj\Debug\number.test.resources
